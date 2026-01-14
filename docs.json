@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "A2A Net",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#1e4694",
+    "light": "#4a6bb3",
+    "dark": "#152f6b"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo.png",
   "navigation": {
     "tabs": [
       {
@@ -71,33 +71,29 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "A2A Net",
+          "href": "https://a2anet.com",
+          "icon": "home"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/transparent.png",
+    "dark": "/logo/transparent.png",
+    "href": "https://a2anet.com"
   },
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Discord",
+        "href": "https://discord.gg/mNWM8aYR35"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://a2anet.com/dashboard"
     }
   },
   "contextual": {
@@ -114,9 +110,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "linkedin": "https://linkedin.com/company/a2anet",
+      "discord": "https://discord.gg/mNWM8aYR35",
+      "reddit": "https://reddit.com/r/A2ANet",
+      "github": "https://github.com/a2anet"
     }
   }
 }
